@@ -5,4 +5,5 @@ sudo apt-get install \
 	cmake \
 	python-dev \
 	tig \
+	tree \
 	-y
