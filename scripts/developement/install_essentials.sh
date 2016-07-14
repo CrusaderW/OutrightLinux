@@ -6,4 +6,5 @@ sudo apt-get install \
 	python-dev \
 	tig \
 	tree \
+	htop \
 	-y
