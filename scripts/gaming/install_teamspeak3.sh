@@ -18,5 +18,5 @@ X-MultipleArgs=false
 Type=Application
 Icon=/home/crusader/TeamSpeak3-Client-linux_amd64/pluginsdk/docs/client_html/images/logo.png
 StartupWMClass=TeamSpeak 3
-StartupNotify=true" > ~/Desktop/Teamspeak3-Client.desktop
-sudo chmod a+x ~/Desktop/Teamspeak3-Client.desktop
+StartupNotify=true" > ~/TeamSpeak3-Client-linux_amd64/Teamspeak3-Client.desktop
+sudo chmod a+x ~/TeamSpeak3-Client-linux_amd64/Teamspeak3-Client.desktop
