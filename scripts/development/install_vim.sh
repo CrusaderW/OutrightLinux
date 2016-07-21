@@ -7,3 +7,4 @@ make ~/.vim/bundle/vimproc.vim/
 cd ~/.vim/bundle/YouCompleteMe/
 git submodule update --init --recursive
 ./install.sh --clang-completer
+echo "On firt start of vim ececute ':set spell spelllang=de' -> example to download a german dictionary"
