@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt-get install \
-	terminator \
+	terminology \
 	build-essential \
 	cmake \
 	python-dev \
@@ -8,3 +8,5 @@ sudo apt-get install \
 	tree \
 	htop \
 	-y
+
+gsettings set org.gnome.desktop.default-applications.terminal exec 'terminology' 
