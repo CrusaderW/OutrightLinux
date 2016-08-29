@@ -10,6 +10,7 @@ sudo apt-get install \
 	seahorse-nautilus \
 	-y
 
+sudo gsettings set org.gnome.desktop.default-applications.terminal exec 'terminology'
 echo "Der Dateimanager (Nautilus) wird nun beendet gestartet um die Inntegration \
 	der Verschluesselungsfunktion durzufuehren.\nDruecke eine Taste zum Fortfahren"
 read
