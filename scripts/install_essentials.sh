@@ -6,8 +6,8 @@ sudo apt-get install \
 	pidgin \
 	pidgin-otr \
 	#TODO: activate OTR with python script
-	seahorse \
-	seahorse-nautilus \
+#	seahorse \
+#	seahorse-nautilus \
 	-y
 
 sudo gsettings set org.gnome.desktop.default-applications.terminal exec 'terminology'
