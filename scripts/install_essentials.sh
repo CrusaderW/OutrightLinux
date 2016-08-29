@@ -1,5 +1,6 @@
 #!/bin/bash
 sudo apt-get install \
+	terminology \
 	vlc \
 	thunderbird \
 	pidgin \
