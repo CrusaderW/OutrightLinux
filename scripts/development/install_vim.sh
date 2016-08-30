@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt-get install vim-gnome-py2 -y
-git clone https://github.com/CrusaderW/vim.git ~/.vim
+git clone git@github.com:CrusaderW/vim.git ~/.vim
 make ~/.vim/bundle/vimproc.vim/
 ~/.vim/bundle/neobundle.vim/bin/neoinstall
 #TODO: ln -s ~/.vim/.pylintrc ~/.pylintrc
