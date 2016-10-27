@@ -1,6 +1,7 @@
 #!/bin/bash
 sudo apt-get install \
 	terminology \
+  silversearcher-ag \
 	vlc \
 	thunderbird \
 	pidgin \
