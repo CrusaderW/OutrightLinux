@@ -24,4 +24,5 @@ git clone https://github.com/CrusaderW/OutrightLinux.git
 ##TODO:
 - Thunderbird + PGP needs to be configured (Tutotorial needed)
 - Pidgin + OTR needs to be configured (Tutotorial needed)
-- Syncthing needs to be configured (Tutotorial needed)
+- Syncthing needs to be configured (Tutotorial needed) - based on:
+    https://docs.syncthing.net/users/autostart.html#linux
