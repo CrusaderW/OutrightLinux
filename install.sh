@@ -12,4 +12,5 @@ scripts/development/configure_git.sh
 scripts/development/install_powerline_fonts.sh
 scripts/development/install_vim.sh
 scripts/development/install_fish.sh
+scripts/development/install_python_env.sh
 
