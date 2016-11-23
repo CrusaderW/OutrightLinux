@@ -9,6 +9,8 @@ sudo apt-get install \
 	#TODO: activate OTR with python script
 	-y
 
+gsettings set org.gnome.desktop.default-applications.terminal exec 'terminology'
+
 curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
 echo "deb http://apt.syncthing.net/ syncthing release" | sudo tee /etc/apt/sources.list.d/syncthing.list
 sudo apt-get update
