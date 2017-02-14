@@ -9,4 +9,4 @@ sudo apt-get install \
 	htop \
 	-y
 
-sudp gsettings set org.gnome.desktop.default-applications.terminal exec 'terminology' 
+sudo gsettings set org.gnome.desktop.default-applications.terminal exec 'terminology' 
