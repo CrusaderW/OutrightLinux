@@ -2,5 +2,5 @@
 sudo apt-get install \
 	python-pip \
 	mariadb-client \
-  libmysqlclient-dev
+  libmysqlclient-dev \
   -y
