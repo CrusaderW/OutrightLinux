@@ -4,9 +4,10 @@ sudo apt-get install \
 	build-essential \
 	cmake \
 	python-dev \
+  mycli \
 	tig \
 	tree \
 	htop \
 	-y
 
-sudo gsettings set org.gnome.desktop.default-applications.terminal exec 'terminology' 
+sudo gsettings set org.gnome.desktop.default-applications.terminal exec 'terminology'
