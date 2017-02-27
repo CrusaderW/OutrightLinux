@@ -5,6 +5,7 @@ sudo apt-get install \
 	cmake \
 	python-dev \
   mycli \
+  python-pip \
 	tig \
 	tree \
 	htop \
