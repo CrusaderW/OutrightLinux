@@ -1,6 +1,7 @@
 #!/bin/bash
 sudo apt-get install \
 	terminology \
+  silversearcher-ag \
 	build-essential \
 	cmake \
 	python-dev \
